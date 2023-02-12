@@ -1,3 +1,3 @@
 # homeopathbd
 
-Web front of medical practioner's chamber
+Web front of a medical practioner's chamber
